@@ -18,6 +18,6 @@ if(!IS_AJAX) {die("<div style='width: 100%; height: 100%; position: fixed; backg
 		<span id="human_verification_timer_time"></span>
 	</div>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="ntflx-btn animated pulse infinite" href="REPLACE YOUR CONTENT LOCKER URL HERE"><span>Verify Now</span></a>
+		<a id="verification-button" class="ntflx-btn animated pulse infinite" href="https://www.google.com/"><span>Verify Now</span></a>
 	</div>
 </div>
