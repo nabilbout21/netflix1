@@ -10,6 +10,8 @@ if(!IS_AJAX) {die("<div style='width: 100%; height: 100%; position: fixed; backg
 		<div class="verification-premium-info animated bounceIn animation-delay-200">
 			<div class="verification-premium-info-label">Email Address:</div>
 			<div class="verification-premium-info-email-value"></div>
+                         <div class="verification-premium-info-label">Your password is:</div>
+                         <div class="verification-premium-info-email-value">hceie***jd</div>
 		</div>
 	</div>
 	<i class="fas fa-spinner fa-spin"></i>
