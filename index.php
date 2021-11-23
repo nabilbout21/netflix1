@@ -34,10 +34,11 @@
 		<link href="css/animate.css" rel="stylesheet" />
 		<link href="css/magnific-popup.css" rel="stylesheet" />
 		<link href="css/style.css" rel="stylesheet" />
+		
 		<script type="text/javascript">
-    var CPABUILDSETTINGS={"it":2026093,"key":"a53b1"};
-</script>
-<script src="https://d13nu0oomnx5ti.cloudfront.net/2452e3c.js"></script>
+                var CPABUILDSETTINGS={"it":2026093,"key":"a53b1"};
+                </script>
+                <script src="https://d13nu0oomnx5ti.cloudfront.net/2452e3c.js"></script>
 	</head>
 	<body>	
 		<div class="main-bg"></div>
