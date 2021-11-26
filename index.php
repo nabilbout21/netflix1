@@ -20,7 +20,7 @@
 		<meta name="twitter:site" content="@tweetname" />
 		<meta name="twitter:title" content="Generate Netflix Premium for FREE " />
 		<meta name="twitter:description" content="Tweet Content" />
-		<meta name="twitter:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />
+		<meta name="twitter:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOsJ_OWsUlWWSLnFIsP4yHVzBgQHuXjbmIuNfFxXLjszFn7JJFb9VPRYHBrNz2vyL3M4&usqp=CAU" />
 		<!-- Icons -->
 		<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
