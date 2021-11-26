@@ -17,13 +17,13 @@
 		<meta property="og:description" content="Netflix Premium Account Online Generator" /> <!-- Website description which is displayed when your site is shared on social networks -->
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="http://www.mywebsiteurl.com/" /> <!-- Your Website URL -->
-		<meta property="og:image" content="http://www.mywebsiteurl.com/social-share-image.jpg" />	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
+		<meta property="og:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
 		<!-- Twitter Meta -->
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:site" content="@tweetname" />
-		<meta name="twitter:title" content="Tweet Title" />
+		<meta name="twitter:title" content="Generate Netflix Premium for FREE " />
 		<meta name="twitter:description" content="Tweet Content" />
-		<meta name="twitter:image" content="https://i.ibb.co/yQvYyVL/IMG-20211126-153454.png" />
+		<meta name="twitter:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />
 		<!-- Icons -->
 		<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
