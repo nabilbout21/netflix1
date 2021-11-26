@@ -13,9 +13,6 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<link rel="icon" type="image/ico" href="img/favicon.ico" />
 		<!-- Open Graph Meta Tags-->
-		<meta property="og:title" content="Netflix Premium Account Online Generator" /> <!-- Title which is displayed when your site is shared on social networks -->
-		<meta property="og:description" content="Netflix Premium Account Online Generator" /> <!-- Website description which is displayed when your site is shared on social networks -->
-		<meta property="og:type" content="website" />
 		<meta property="og:url" content="http://www.mywebsiteurl.com/" /> <!-- Your Website URL -->
 		<meta property="og:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
 		<!-- Twitter Meta -->
