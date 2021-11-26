@@ -14,13 +14,12 @@
 		<link rel="icon" type="image/ico" href="img/favicon.ico" />
 		<!-- Open Graph Meta Tags-->
 		<meta property="og:url" content="http://www.mywebsiteurl.com/" /> <!-- Your Website URL -->
-		<meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOsJ_OWsUlWWSLnFIsP4yHVzBgQHuXjbmIuNfFxXLjszFn7JJFb9VPRYHBrNz2vyL3M4&usqp=CAU" />	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
-		<!-- Twitter Meta -->
+		<meta property="og:image" content="https://i.imgur.com/ZviYcQu.jpg"/>
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@tweetname" />
 		<meta name="twitter:title" content="Generate Netflix Premium for FREE " />
 		<meta name="twitter:description" content="Tweet Content" />
-		<meta name="twitter:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOsJ_OWsUlWWSLnFIsP4yHVzBgQHuXjbmIuNfFxXLjszFn7JJFb9VPRYHBrNz2vyL3M4&usqp=CAU" />
+		<meta name="twitter:image" content="https://i.imgur.com/ZviYcQu.jpg" />
 		<!-- Icons -->
 		<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
