@@ -24,6 +24,15 @@
 		<meta name="twitter:title" content="Generate Netflix Premium for FREE " />
 		<meta name="twitter:description" content="Tweet Content" />
 		<meta name="twitter:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />
+
+                <meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://media.economist.com/sites/default/files/images/print-edition/20120908_BKP001_0.jpg" />
+<meta name="twitter:site" content="@TheEconomist" />
+<meta property="og:description" content="The End of Men: And the Rise of Women. By Hanna Rosin. Riverhead; 310 pages; $27.95. To be published in Britain in October; £12.99. Buy from Amazon.com,..." />
+<meta property="og:site_name" content="The Economist" />
+<meta property="og:title" content="Female muscle" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://swat2.demo.economist.com/node/21562174" />
 		<!-- Icons -->
 		<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
