@@ -25,7 +25,7 @@
 		<meta name="twitter:description" content="Tweet Content" />
 		<meta name="twitter:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />
 
-                <meta name="twitter:card" content="summary" />
+                <meta name="twitter:card" content=“summary_large_image” />
 <meta name="twitter:image" content="https://media.economist.com/sites/default/files/images/print-edition/20120908_BKP001_0.jpg" />
 <meta name="twitter:site" content="@TheEconomist" />
 <meta property="og:description" content="The End of Men: And the Rise of Women. By Hanna Rosin. Riverhead; 310 pages; $27.95. To be published in Britain in October; £12.99. Buy from Amazon.com,..." />
