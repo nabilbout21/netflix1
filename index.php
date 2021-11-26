@@ -13,26 +13,13 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<link rel="icon" type="image/ico" href="img/favicon.ico" />
 		<!-- Open Graph Meta Tags-->
-		<meta property="og:title" content="Netflix Premium Account Online Generator" /> <!-- Title which is displayed when your site is shared on social networks -->
-		<meta property="og:description" content="Netflix Premium Account Online Generator" /> <!-- Website description which is displayed when your site is shared on social networks -->
-		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://www.mywebsiteurl.com/" /> <!-- Your Website URL -->
-		<meta property="og:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
+			
 		<!-- Twitter Meta -->
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@tweetname" />
 		<meta name="twitter:title" content="Generate Netflix Premium for FREE " />
 		<meta name="twitter:description" content="Tweet Content" />
-		<meta name="twitter:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />
-
-                <meta name="twitter:card" content=“summary_large_image” />
-<meta name="twitter:image" content="https://media.economist.com/sites/default/files/images/print-edition/20120908_BKP001_0.jpg" />
-<meta name="twitter:site" content="@TheEconomist" />
-<meta property="og:description" content="The End of Men: And the Rise of Women. By Hanna Rosin. Riverhead; 310 pages; $27.95. To be published in Britain in October; £12.99. Buy from Amazon.com,..." />
-<meta property="og:site_name" content="The Economist" />
-<meta property="og:title" content="Female muscle" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="http://swat2.demo.economist.com/node/21562174" />
+		<meta name="twitter:image" content="https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png" />
 		<!-- Icons -->
 		<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
