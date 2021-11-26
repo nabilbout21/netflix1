@@ -19,7 +19,7 @@
 		<meta property="og:url" content="http://www.mywebsiteurl.com/" /> <!-- Your Website URL -->
 		<meta property="og:image" content="https://i.ibb.co/0YNC3p9/IMG-20211126-154252.png" />	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
 		<!-- Twitter Meta -->
-		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@tweetname" />
 		<meta name="twitter:title" content="Generate Netflix Premium for FREE " />
 		<meta name="twitter:description" content="Tweet Content" />
